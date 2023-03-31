@@ -215,7 +215,7 @@ GEM
       test-unit (>= 2.5.2)
     test-unit-runner-tap (1.1.2)
       test-unit
-    thin (1.8.1)
+    thin (1.8.2)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
       rack (>= 1, < 3)
