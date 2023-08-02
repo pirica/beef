@@ -244,12 +244,12 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (2.3.0)
-    webrick (1.7.0)
+    webrick (1.8.1)
     websocket (1.2.9)
     websocket-client-simple (0.6.0)
       event_emitter
       websocket
-    xmlrpc (0.3.2)
+    xmlrpc (0.3.3)
       webrick
     xpath (3.2.0)
       nokogiri (~> 1.8)
