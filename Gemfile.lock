@@ -54,7 +54,7 @@ GEM
     espeak-ruby (1.1.0)
     event_emitter (0.2.6)
     eventmachine (1.2.7)
-    execjs (2.8.1)
+    execjs (2.10.0)
     ffi (1.15.5)
     ffi-compiler (1.0.1)
       ffi (>= 1.0.0)
